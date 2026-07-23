@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="banner" width="100%" />
+<img src="./assets/banner.jpg" alt="banner" width="100%" />
 
 <!-- ============ STAT BADGES ============ -->
 <img src="https://img.shields.io/badge/STARS-0-black?style=flat-square&logo=github" />
