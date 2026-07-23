@@ -14,16 +14,16 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="./assets/room.jpg" alt="room" width="200" align="left" style="margin-right: 15px;">
+<img src="./assets/room.png" alt="room" width="250" align="left" style="margin-right: 15px;">
 
 <div align="justify">
-  <h3>Hey there! I’m Karthick</h3>
+  <h2>Hey there! I’m Mathew</h2>
   I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
   <br><br>
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
   
-  <img src="./assets/shambles.jpg" alt="shambles" width="200" align="right" style="margin-left: 15px;">
+  <img src="./assets/shambles.png" alt="shambles" width="200" align="right" style="margin-left: 15px;">
   
   <h3>Top Projects (built to avoid manual labor)</h3>
   <a href="https://github.com/Synaptara/File-ghost"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br>
