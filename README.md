@@ -18,18 +18,47 @@
 
 <div align="justify">
   <h3>Hey there! I’m Mathew</h3>
-  I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
-  <br><br>
+  I'm a Computer Science graduate and a full-stack developer, though my heart is definitely on the frontend side of things. There’s something incredibly satisfying about bringing a clean, sharp design to life and making
+  sure the user experience feels completely seamless. <br><br> When I’m away from the keyboard, I’m usually focusing on fitness or catching up on anime (which you’ll probably notice all over my profile theme).
+</div>
+
+<br><br><br>
+
+<div align="center">
+  <h2>Technologies</h2>
+
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF">
+
+  <br>
+  <img src="./assets/shambles.png" alt="shambles" width="35%">
+</div>
+
+<div align="center">
+  <h2>Contribution</h2>
   
-  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
-  
-  <img src="./assets/shambles.png" alt="shambles" width="200" align="right" style="margin-left: 15px;">
-  
-  <h3>Top Projects (built to avoid manual labor)</h3>
-  <a href="https://github.com/Synaptara/File-ghost"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br>
-  <a href="https://github.com/Synaptara/Gen-Ghost_v1"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than I manage my sleep schedule.<br>
-  <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimMathew&theme=github-compact&hide_border=true&hide_title=true&height=300&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="contribution graph" width="100%">
+</div>
+
+
+
+
+
 
   
-  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
-</div>
+  
+
