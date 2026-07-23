@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/sword.png" alt="banner" width="90%" />
+  <img src="./assets/sword.png" alt="banner" width="80%" />
 </div>
 
 
