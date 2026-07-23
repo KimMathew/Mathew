@@ -54,8 +54,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimMathew&theme=github-compact&hide_border=true&hide_title=true&height=300&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="contribution graph" width="100%">
 </div>
 
-
-<img src="./assets/sword.jpg" alt="banner" width="100%" />
+<div align="center">
+  <img src="./assets/sword.png" alt="banner" width="90%" />
+</div>
 
 
 
